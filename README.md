@@ -4,21 +4,21 @@ Observe as três capturas de tela em anexo. Cada uma delas tem áreas sinalizada
 
 Em um arquivo aparte, associe cada tag HTML com o respectivo número da área que o representa (Exemplo: 1. footer, 2. input, etc...), suba esse arquivo para algum repositório e compartilhe o link no campo ao lado para que outros desenvolvedores possam analisá-lo.
 
-1 - 
-2 - 
-3 - 
+1 - <header>
+2 - <main>
+3 - <nav>
 4 - <img>
-5 - 
-6 - 
+5 - <h1>
+6 - <h2>
 7 - <p>
 
-8 - 
-9 - 
-10 - 
-11 - 
+8 - <a>
+9 - <footer>
+10 - <ul>
+11 - <li>
 
-12 - 
-13 - 
-14 - 
-15 - 
-16 - 
+12 - <form>
+13 - <label>
+14 - <input>
+15 - <select>
+16 - <button>
